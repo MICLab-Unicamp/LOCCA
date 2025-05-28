@@ -10,7 +10,7 @@ The main formats used here are:
 
 ## LOCCA dataset location
 
-If you wish to test the LobePrior method, you may use a public dataset referred to here as CoronaCases. The COVID-19 CT Lung and Infection Segmentation Dataset, available on Zenodo, provides 20 CT scans of COVID-19 patients. You can access and download the dataset directly via the following link:
+The dataset can be downloaded directly via the following link:
 
 > [LOCCA](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
