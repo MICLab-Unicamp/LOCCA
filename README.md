@@ -155,15 +155,13 @@ ITK-Snap is a free, open-source software for semi-automatic and manual segmentat
 
 ---
 
-## LobePrior: Segmenting Lung Lobes on CT Images with Severe Pulmonary Abnormalities 
+## LobePrior 
 
-[LobePrior](https://github.com/MICLab-Unicamp/LobePrior)
+[LobePrior: Segmenting Lung Lobes on CT Images with Severe Pulmonary Abnormalities](https://github.com/MICLab-Unicamp/LobePrior)
 
 This repository contains the implementation of LobePrior, a method for automated lung lobe segmentation in computed tomography (CT) scans, specifically designed to handle cases with severe pulmonary abnormalities.
 
-Accurate lung and lobe segmentation plays a key role in the diagnosis and monitoring of pulmonary diseases, such as COVID-19-induced pneumonia and lung cancer. However, segmenting lung lobes remains a challenge due to the frequent invisibility or distortion of lobar fissures in abnormal cases.
-
-LobePrior addresses this issue by combining deep neural networks with probabilistic models to guide the segmentation process, even in the presence of incomplete or missing fissure information.
+Accurate lung and lobe segmentation plays a key role in the diagnosis and monitoring of pulmonary diseases, such as COVID-19-induced pneumonia and lung cancer. However, segmenting lung lobes remains a challenge due to the frequent invisibility or distortion of lobar fissures in abnormal cases. LobePrior addresses this issue by combining deep neural networks with probabilistic models to guide the segmentation process, even in the presence of incomplete or missing fissure information.
 
 ---
 
