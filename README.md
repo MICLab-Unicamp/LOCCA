@@ -8,6 +8,8 @@ The main formats used here are:
 
     NRRD (.nrrd): commonly used for storing medical annotations, such as manual segmentations.
 
+---
+
 ## LOCCA dataset location
 
 The dataset can be downloaded directly via the following link:
