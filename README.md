@@ -157,6 +157,16 @@ ITK-Snap is a free, open-source software for semi-automatic and manual segmentat
 
 ---
 
+# Comparative Analysis of Datasets with Manual Annotations of Pulmonary Lobes in CT Images
+
+| Dataset                         | Cases with annotations           | Patologias Incluídas                 | Anotações de Lobos | Formato dos Dados | Fonte / Acesso                                                                 |
+|---------------------------------|---------------------------|--------------------------------------|--------------------|-------------------|--------------------------------------------------------------------------------|
+| **LOCCA - HCU**                 | 30 | COVID-19  | Sim     | NIfTI             | [LOCCA-HCU](https://github.com/MICLab-Unicamp/LOCCA) |                             |
+| **LOCCA - Cancer**              | 30 | Cancer    | Sim     | NIfTI             | [LOCCA-Cancer](https://github.com/MICLab-Unicamp/LOCCA) and [MSD](http://medicaldecathlon.com) |
+| **LUNA16 (50 casos anotados)**  | 50 | Cancer    | Sim     | NIfTI        | [LUNA16 Challenge](https://luna16.grand-challenge.org/) |
+
+---
+
 ## LobePrior 
 
 [LobePrior: Segmenting Lung Lobes on CT Images with Severe Pulmonary Abnormalities](https://github.com/MICLab-Unicamp/LobePrior)
