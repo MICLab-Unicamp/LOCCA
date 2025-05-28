@@ -161,9 +161,9 @@ ITK-Snap is a free, open-source software for semi-automatic and manual segmentat
 
 | Dataset                         | Cases with annotations           | Included Pathologies                 | Annotations Data Format | Image Data Format | Source / Access                                                                 |
 |---------------------------------|:---------------------------:|:--------------------------------------:|:--------------------:|:-------------------:|:--------------------------------------------------------------------------------:|
-| **LOCCA - HCU**                 | 30 | COVID-19  | NRRD     | NIfTI             | [LOCCA-HCU](https://github.com/MICLab-Unicamp/LOCCA) |                             |
-| **LOCCA - Cancer**              | 30 | Cancer    | NRRD     | NIfTI             | [LOCCA-Cancer](https://github.com/MICLab-Unicamp/LOCCA) and [MSD](http://medicaldecathlon.com) |
-| **Hao Tang and Chupeng Zhang and Xiaohui Xie**  | 50 | Cancer    | NIfTI     | NIfTI        | [LUNA16 Challenge](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) |
+| **LOCCA - HCU**                 | 30 | COVID-19 | NRRD | NIfTI | [LOCCA-HCU](https://github.com/MICLab-Unicamp/LOCCA) |
+| **LOCCA - Cancer**              | 30 | Cancer   | NRRD | NIfTI | [LOCCA-Cancer](https://github.com/MICLab-Unicamp/LOCCA) and [MSD](http://medicaldecathlon.com) |
+| **Hao Tang and Chupeng Zhang and Xiaohui Xie**  | 50 | Cancer | NIfTI | NIfTI | [LUNA16 Challenge](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) |
 
 ---
 
