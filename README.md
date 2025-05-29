@@ -63,7 +63,7 @@ The dataset can be downloaded directly via the following link:
 - Free software for semi-automatic segmentation and annotation of medical images.
 - Supports `.nii.gz` and `.nrrd` files with overlay visualization.
 - Website: [http://www.itksnap.org](http://www.itksnap.org).
-- [ITK-Snap guide - Download](https://github.com/MICLab-Unicamp/LOCCA/blob/main/ITK-Snap_guide.pdf): Guide with instructions on how to use ITK-Snap for medical image manipulation.
+- See the guide in this repository for instructions on how to use ITK-Snap for medical image manipulation.
 
 ### 2. **3D Slicer**
 - Open-source platform for 3D visualization and analysis of medical data.
