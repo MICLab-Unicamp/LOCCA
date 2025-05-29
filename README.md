@@ -30,6 +30,13 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
         - Accurately delineate lesions in difficult-to-visualize regions.
         - Plan interventions such as biopsies or surgical resections with precise anatomical guidance.
 
+**🫁 4. Lobar lung segmentation enables**
+
+    - Detailed anatomical assessment
+    - Disease diagnosis and quantification
+    - Support for artificial intelligence
+    - Surgical and treatment planning
+    - Facilitates comparison of scans over time, enabling tracking of disease progression or regression by lobe.
 ---
 
 ## LOCCA dataset location
