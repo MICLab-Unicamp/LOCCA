@@ -10,6 +10,18 @@ The main formats used here are:
 
 ---
 
+# Manual annotations of the pulmonary lobes
+
+Manual annotations of the pulmonary lobes (or manual segmentations) serve as precise anatomical references created by experts and have multiple important purposes, especially in clinical, academic, and artificial intelligence algorithm development contexts.
+
+**🖋️ 1. Ground truth for training and evaluating models**
+
+    - Serve as a reliable reference for training automatic segmentation algorithms, such as deep neural networks (e.g., 3D U-Net).
+
+    - Used to validate model accuracy by comparing automatic predictions with expert manual annotations.
+    
+---
+
 ## LOCCA dataset location
 
 The dataset can be downloaded directly via the following link:
