@@ -17,7 +17,6 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 **🖋️ 1. Ground truth for training and evaluating models**
 
     - Serve as a reliable reference for training automatic segmentation algorithms, such as deep neural networks (e.g., 3D U-Net).
-
     - Used to validate model accuracy by comparing automatic predictions with expert manual annotations.
 
 **📊 2. Creation of public annotated datasets**
@@ -27,10 +26,8 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 
 **🩺 3. Clinical support in complex cases**
 
-    In challenging clinical scenarios, manual segmentation helps:
-
+    - In challenging clinical scenarios, manual segmentation helps:
         - Accurately delineate lesions in difficult-to-visualize regions.
-
         - Plan interventions such as biopsies or surgical resections with precise anatomical guidance.
 
 ---
