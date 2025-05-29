@@ -57,7 +57,7 @@ The dataset can be downloaded directly via the following link:
 
 ---
 
-## Recommended Software
+## Recommended software for image manipulation
 
 ### 1. **ITK-Snap**
 - Free software for semi-automatic segmentation and annotation of medical images.
