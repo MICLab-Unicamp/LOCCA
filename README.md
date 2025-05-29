@@ -8,9 +8,11 @@ The main formats used here are:
 
     NRRD (.nrrd): commonly used for storing medical annotations, such as manual segmentations.
 
+---
+
 ## LOCCA dataset location
 
-If you wish to test the LobePrior method, you may use a public dataset referred to here as CoronaCases. The COVID-19 CT Lung and Infection Segmentation Dataset, available on Zenodo, provides 20 CT scans of COVID-19 patients. You can access and download the dataset directly via the following link:
+The dataset can be downloaded directly via the following link:
 
 > [LOCCA](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
@@ -152,6 +154,16 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
 ITK-Snap is a free, open-source software for semi-automatic and manual segmentation of 3D medical images. It supports common formats like NIfTI, DICOM, MetaImage, among others, and allows visualization of volumetric images, creation of segmentation masks, and saving results for further analysis.
 
    - View ITK-Snap guide.pdf
+
+---
+
+# Comparative Analysis of Datasets with Manual Annotations of Pulmonary Lobes in CT Images
+
+| Dataset                         | Cases with annotations           | Included Pathologies                 | Annotations Data Format | Image Data Format | Source |
+|---------------------------------|:---------------------------:|:--------------------------------------:|:--------------------:|:-------------------:|:--------------------------------------------------------------------------------:|
+| **LOCCA - HCU**                 | 30 | COVID-19 | NRRD | NIfTI | [LOCCA-HCU](https://github.com/MICLab-Unicamp/LOCCA) |
+| **LOCCA - Cancer**              | 30 | Cancer   | NRRD | NIfTI | [LOCCA-Cancer](https://github.com/MICLab-Unicamp/LOCCA) and [MSD](http://medicaldecathlon.com) |
+| **Hao Tang and Chupeng Zhang and Xiaohui Xie**  | 50 | Cancer | NIfTI | NIfTI | [LUNA16 Challenge](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) |
 
 ---
 
