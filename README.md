@@ -17,7 +17,7 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 **🖋️ Manual segmentation of the lung lobes enables**
 
     - Ground truth for training and evaluating models
-    - Creation of public annotated datasets
+    - Creation of publicly annotated datasets that serve as a basis for comparisons between algorithms performing automatic segmentation of lung lobes
     - Clinical support in complex cases
 
 **🫁 Automatic segmentation of the lung lobes enables**
