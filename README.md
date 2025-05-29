@@ -14,23 +14,13 @@ The main formats used here are:
 
 Manual annotations of the pulmonary lobes (or manual segmentations) serve as precise anatomical references created by experts and have multiple important purposes, especially in clinical, academic, and artificial intelligence algorithm development contexts.
 
-**🖋️ 1. Ground truth for training and evaluating models**
+**🖋️ Manual segmentation of the lung lobes enables**
 
-    - Serve as a reliable reference for training automatic segmentation algorithms, such as deep neural networks (e.g., 3D U-Net).
-    - Used to validate model accuracy by comparing automatic predictions with expert manual annotations.
+    - Ground truth for training and evaluating models
+    - Creation of public annotated datasets
+    - Clinical support in complex cases
 
-**📊 2. Creation of public annotated datasets**
-
-    - These datasets are fundamental for advancing medical computer vision research.
-    - Used in research to understand anatomical variability between patients, especially in the presence of disease (e.g., lobe collapse or fused fissures).
-
-**🩺 3. Clinical support in complex cases**
-
-    - In challenging clinical scenarios, manual segmentation helps:
-        - Accurately delineate lesions in difficult-to-visualize regions.
-        - Plan interventions such as biopsies or surgical resections with precise anatomical guidance.
-
-**🫁 4. Lobar lung segmentation enables**
+**🫁 Automatic segmentation of the lung lobes enables**
 
     - Detailed anatomical assessment
     - Disease diagnosis and quantification
