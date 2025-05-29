@@ -33,7 +33,7 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 
 The dataset can be downloaded directly via the following link:
 
-> [LOCCA](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
+> [LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotationed CT Dataset](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
 ## Repository Contents
 
@@ -63,7 +63,7 @@ The dataset can be downloaded directly via the following link:
 - Free software for semi-automatic segmentation and annotation of medical images.
 - Supports `.nii.gz` and `.nrrd` files with overlay visualization.
 - Website: [http://www.itksnap.org](http://www.itksnap.org).
-- [ITK-Snap guide](https://github.com/MICLab-Unicamp/LOCCA/blob/main/ITK-Snap_guide.pdf): Guide with instructions on how to use ITK-Snap for medical image manipulation.
+- [ITK-Snap guide - Download](https://github.com/MICLab-Unicamp/LOCCA/blob/main/ITK-Snap_guide.pdf): Guide with instructions on how to use ITK-Snap for medical image manipulation.
 
 ### 2. **3D Slicer**
 - Open-source platform for 3D visualization and analysis of medical data.
@@ -159,7 +159,7 @@ conda install -c conda-forge nibabel simpleitk matplotlib jupyter pynrrd
 
 ---
 
-## Instructions for Using the Script
+## Instructions for Using the Script in a Python Environmen 
 
 This script allows you to load and visualize 3D CT scans along with their corresponding annotations (e.g., segmentation masks). It is intended for medical imaging tasks using Python.
 
@@ -168,12 +168,6 @@ This script allows you to load and visualize 3D CT scans along with their corres
 ```bash
 python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask data/labels/patient_001.nrrd
 ```
-
-🖼️ **ITK-Snap**
-
-ITK-Snap is a free, open-source software for semi-automatic and manual segmentation of 3D medical images. It supports common formats like NIfTI, DICOM, MetaImage, among others, and allows visualization of volumetric images, creation of segmentation masks, and saving results for further analysis.
-
-   - View ITK-Snap guide.pdf
 
 ---
 
