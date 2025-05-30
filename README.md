@@ -1,4 +1,4 @@
-# LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotationed CT Dataset
+# LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotated CT Dataset (LOCCA)
 
 This repository contains medical image files, annotations, visualization scripts, and a tutorial to assist with data manipulation and analysis. The files are organized to support studies and experiments with biomedical imaging, particularly in lung computed tomography (CT).
 
