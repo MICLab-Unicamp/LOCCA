@@ -49,7 +49,8 @@ The dataset can be downloaded directly via the following link:
 3. **Compressed folder containing files and scripts**
    - Contains **Python scripts** with examples of loading, visualizing, and analyzing the images and annotations.
    - It also includes a guide on how to use the ITK-SNAP software.
-   - Includes plots, 2D/3D visualizations, and basic analyses using libraries such as `nibabel`, `matplotlib`, `numpy`, `SimpleITK`, and `itk`.
+   - Includes plots, 2D/3D visualizations, and basic analyses using libraries such as `nibabel`, `matplotlib`, `numpy`, and `SimpleITK`.
+   - All .ipynb files can be viewed directly in the browser via GitHub, without the need for download.
 
 4. **Tutorial PDF**
    - Practical guide on how to use **ITK-Snap** to view and edit images and annotations.
