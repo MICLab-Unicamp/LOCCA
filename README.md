@@ -33,7 +33,7 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 
 The dataset can be downloaded directly via the following link:
 
-> [LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotationed CT Dataset](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
+> [LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotated CT Dataset (LOCCA)](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
 ## Repository Contents
 
