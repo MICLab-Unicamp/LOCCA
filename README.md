@@ -10,7 +10,7 @@ The main formats used here are:
 
 ---
 
-# Manual annotations of the pulmonary lobes
+# Manual annotations of the pulmonary lobes in CT images
 
 Manual annotations of the pulmonary lobes (or manual segmentations) serve as precise anatomical references created by experts and have multiple important purposes, especially in clinical, academic, and artificial intelligence algorithm development contexts.
 
