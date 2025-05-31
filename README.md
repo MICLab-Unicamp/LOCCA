@@ -1,4 +1,4 @@
-# LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotated CT Dataset (LOCCA)
+# LOCCA: Manual annotations for lung lobes in CT images of patients with cancer and COVID-19
 
 This repository contains medical image files, annotations, visualization scripts, and a tutorial to assist with data manipulation and analysis. The files are organized to support studies and experiments with biomedical imaging, particularly in lung computed tomography (CT).
 
@@ -33,7 +33,7 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 
 The dataset can be downloaded directly via the following link:
 
-> [LOCCA: Lung Lobes of COVID-19 and Cancer Patients Annotated CT Dataset (LOCCA)](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
+> [LOCCA: Manual annotations for lung lobes in CT images of patients with cancer and COVID-19](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
 ## Repository Contents
 
