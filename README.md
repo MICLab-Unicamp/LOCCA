@@ -1,4 +1,4 @@
-# LOCCA: Manual annotations for lung LObes of COVID and CAncer patients
+# LOCCA: Manual annotations on CT for lung LObes of COVID and CAncer patients
 
 This repository contains medical image files, annotations, visualization scripts, and a tutorial to assist with data manipulation and analysis. The files are organized to support studies and experiments with biomedical imaging, particularly in lung computed tomography (CT).
 
