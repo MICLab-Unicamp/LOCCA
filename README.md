@@ -10,7 +10,7 @@ The main formats used here are:
 
 ---
 
-# Manual annotations of the pulmonary lobes in CT images
+# Manual annotations
 
 Manual annotations of the pulmonary lobes (or manual segmentations) serve as precise anatomical references created by experts and have multiple important purposes, especially in clinical, academic, and artificial intelligence algorithm development contexts.
 
@@ -33,7 +33,7 @@ Manual annotations of the pulmonary lobes (or manual segmentations) serve as pre
 
 The dataset can be downloaded directly via the following link:
 
-> [LOCCA: Manual annotations for lung LObes of COVID and CAncer patients](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
+> [LOCCA: Manual annotations on CT for lung LObes of COVID and CAncer patients](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/ORXJKS)
 
 ## Repository Contents
 
