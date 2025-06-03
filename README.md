@@ -178,7 +178,7 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
 
 | Dataset                         | Cases with annotations           | Included Pathologies                 | Annotations Data Format | Image Data Format | Source |
 |---------------------------------|:---------------------------:|:--------------------------------------:|:--------------------:|:-------------------:|:--------------------------------------------------------------------------------:|
-| **LOCCA**                 | 30 | COVID-19 and cancer | NRRD | NIfTI | [LOCCA](https://github.com/MICLab-Unicamp/LOCCA) |
+| **LOCCA**                 | 60 | COVID-19 and cancer | NRRD | NIfTI | [LOCCA](https://github.com/MICLab-Unicamp/LOCCA) |
 | **Hao Tang and Chupeng Zhang and Xiaohui Xie**  | 50 | Cancer | NIfTI | NIfTI | [LUNA16 Challenge](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) |
 
 ---
