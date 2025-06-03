@@ -186,9 +186,13 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
 
 ## LobePrior 
 
+A new solution for robust lung lobe segmentation in CT scans with severe lung lesions: integrating deep learning and probabilistic models. Access the open-source code:
+
 [LobePrior: Segmenting Lung Lobes on CT Images with Severe Pulmonary Abnormalities](https://github.com/MICLab-Unicamp/LobePrior)
 
+<!--
 This repository contains the implementation of LobePrior, a method for automated lung lobe segmentation in computed tomography (CT) scans, specifically designed to handle cases with severe pulmonary abnormalities.
+-->
 
 Accurate lung and lobe segmentation plays a key role in the diagnosis and monitoring of pulmonary diseases, such as COVID-19-induced pneumonia and lung cancer. However, segmenting lung lobes remains a challenge due to the frequent invisibility or distortion of lobar fissures in abnormal cases. LobePrior addresses this issue by combining deep neural networks with probabilistic models to guide the segmentation process, even in the presence of incomplete or missing fissure information.
 
