@@ -131,7 +131,7 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
 ## File Structure
 
 ```
-📦 annotations_HCU.zip              # Annotations for the HCU dataset
+📦 annotations_HCU.zip              # COVID-19 annotations
  ├── locca_covid_001_label.nrrd
  ├── locca_covid_002_label.nrrd
  ├── locca_covid_003_label.nrrd
@@ -140,7 +140,7 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
      .
  └── locca_covid_030_label.nrrd
 
-📦 annotations_Task06-Lung.zip       # Annotations for the Task06-Lung dataset
+📦 annotations_Task06-Lung.zip       # Cancer annotations
  ├── lung_001_label.nrrd
  ├── lung_002_label.nrrd
  ├── lung_003_label.nrrd
@@ -149,7 +149,7 @@ python load_image_and_annotation.py -image data/images/patient_001.nii.gz --mask
      .
  └── lung_096_label.nrrd
 
-📦 images_HCU.zip                    # Volumetric images of the HCU dataset
+📦 images_HCU.zip                    # Volumetric images of COVID-19
  ├── locca_covid_001.nii.gz
  ├── locca_covid_002.nii.gz
  ├── locca_covid_003.nii.gz
