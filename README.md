@@ -264,4 +264,40 @@ Email: j265739@dac.unicamp.br
 	doi = {10.25824/redu/ORXJKS},
 	url = {https://doi.org/10.25824/redu/ORXJKS}
 }
+
+@ARTICLE{Ribeiro_LOCCA,
+	author={Ribeiro, Jean A. and Carmo, Diedre S. Do and Reis, Fabiano and Magalhães, Ricardo S. and Dertkigil, Sergio S. J. and Appenzeller, Simone and Rittner, Leticia},
+	journal={IEEE Data Descriptions}, 
+	title={Descriptor: Manually Annotated CT Dataset of Lung Lobes in COVID-19 and Cancer Patients (LOCCA)}, 
+	year={2025},
+	volume={2},
+	number={},
+	pages={239-246},
+	keywords={Lungs;Computed tomography;Annotations;Lung cancer;Biomedical imaging;Lesions;Image segmentation;Manuals;COVID-19;Three-dimensional displays;Cancer;computed tomography (CT) images;COVID-19;dataset;manual annotation for lung lobes},
+	doi={10.1109/IEEEDATA.2025.3577999}
+}
+``` 
+
+## 👉 Related works
+
+``` 
+@ARTICLE{CBEB2024,
+	title = {Deep learning with probabilistic models for segmenting lung lobes on computed tomography images with severe abnormalities},
+	author = {Jean Antonio Ribeiro and Diedre Santos do Carmo and Fabiano Reis and Leticia Rittner},
+	journal = {CBEB 2024},
+	pages = {1-6},
+	year = {2024},
+}
+
+@ARTICLE{review2022,
+	title = {{A Systematic Review of Automated Segmentation Methods and Public Datasets for the Lung and its Lobes and Findings on Computed Tomography Images}},
+	author={Diedre Santos do Carmo and Jean Antonio Ribeiro and Sergio Dertkigil and Simone Appenzeller and Roberto Lotufo and Leticia Rittner},
+	journal={Yearbook of Medical Informatics},
+	volume={31},
+	number={01},
+	pages={277-295},
+	year={2022},
+	doi = {10.1055/s-0042-1742517}
+}
+
 ``` 
