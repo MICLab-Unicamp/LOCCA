@@ -265,7 +265,7 @@ Email: j265739@dac.unicamp.br
 	url = {https://doi.org/10.25824/redu/ORXJKS}
 }
 
-@ARTICLE{Ribeiro_LOCCA,
+@ARTICLE{RibeiroLOCCA2025,
 	author={Ribeiro, Jean A. and Carmo, Diedre S. Do and Reis, Fabiano and Magalhães, Ricardo S. and Dertkigil, Sergio S. J. and Appenzeller, Simone and Rittner, Leticia},
 	journal={IEEE Data Descriptions}, 
 	title={Descriptor: Manually Annotated CT Dataset of Lung Lobes in COVID-19 and Cancer Patients (LOCCA)}, 
