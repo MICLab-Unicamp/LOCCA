@@ -1,6 +1,8 @@
 # LOCCA: Manually Annotated CT Dataset of Lung LObes in COVID-19 and CAncer Patients
 
-This repository contains medical image files, annotations, visualization scripts, and a tutorial to assist with data manipulation and analysis. The files are organized to support studies and experiments with biomedical imaging, particularly in lung computed tomography (CT).
+This repository contains medical image files, annotations, visualization scripts, and a tutorial to assist with data manipulation and analysis. The files are organized to support studies and experiments with biomedical imaging, particularly in lung computed tomography (CT). The associated article is available at:
+
+> [Descriptor: Manually Annotated CT Dataset of Lung Lobes in COVID-19 and Cancer Patients (LOCCA)](https://ieeexplore.ieee.org/document/11029450)
 
 The main formats used here are:
 
