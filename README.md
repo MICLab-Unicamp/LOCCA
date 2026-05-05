@@ -10,7 +10,7 @@ This repository contains medical image files, annotations, visualization scripts
 <div align="center">
 <figure>
 	<img src="https://github.com/MICLab-Unicamp/LOCCA/blob/main/images/HCU/locca_covid_030_CT_131" alt="CT image", height="200" width="200">
-	<img src="https://github.com/MICLab-Unicamp/LOCCA/blob/main/images/HCU/locca_covid_030_CT_131_131_lp" alt="Ground Truth", height="200" width="200"></td>
+	<img src="https://github.com/MICLab-Unicamp/LOCCA/blob/main/images/HCU/locca_covid_030_axial_131_lp" alt="Ground Truth", height="200" width="200"></td>
 	<br>CT image and Ground Truth<br>
 </figure>
 </div>
