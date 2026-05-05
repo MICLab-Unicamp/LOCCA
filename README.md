@@ -28,6 +28,7 @@ This repository contains medical image files, annotations, visualization scripts
 </div>
 
 
+---
 
 The main formats used here are:
 
