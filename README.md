@@ -9,9 +9,11 @@ This repository contains medical image files, annotations, visualization scripts
 
 | CT Scan | Lobar Mask |
 |--------|------------|
-| ![](https://raw.githubusercontent.com/MICLab-Unicamp/LOCCA/main/images/COVID/covid_ct_1.png) | ![](images/covid_mask_1.png) |
-| ![](images/covid_ct_2.png) | ![](images/covid_mask_2.png) |
-| ![](images/covid_ct_3.png) | ![](images/covid_mask_3.png) |
+<figure>
+	<img src="https://github.com/MICLab-Unicamp/LobePrior/blob/main/images/coronacases_007/coronacases_007_150_ct.png" alt="CT image", height="200" width="200">
+	<img src="https://github.com/MICLab-Unicamp/LobePrior/blob/main/images/coronacases_007/coronacases_007_150_gt.png" alt="Ground Truth", height="200" width="200"></td>
+	<br>CT image and Ground Truth<br>
+</figure>
 
 ---
 
