@@ -4,11 +4,34 @@ This repository contains medical image files, annotations, visualization scripts
 
 > [Descriptor: Manually Annotated CT Dataset of Lung Lobes in COVID-19 and Cancer Patients (LOCCA)](https://ieeexplore.ieee.org/document/11029450)
 
+
+### 🦠 COVID-19 Cases
+
+| CT Scan | Lobar Mask |
+|--------|------------|
+| ![](images/covid_ct_1.png) | ![](images/covid_mask_1.png) |
+| ![](images/covid_ct_2.png) | ![](images/covid_mask_2.png) |
+| ![](images/covid_ct_3.png) | ![](images/covid_mask_3.png) |
+
+---
+
+### 🎗️ Lung Cancer Cases
+
+| CT Scan | Lobar Mask |
+|--------|------------|
+| ![](images/cancer_ct_1.png) | ![](images/cancer_mask_1.png) |
+| ![](images/cancer_ct_2.png) | ![](images/cancer_mask_2.png) |
+| ![](images/cancer_ct_3.png) | ![](images/cancer_mask_3.png) |
+
+---
+
+
 The main formats used here are:
 
     NIfTI (.nii, .nii.gz): widely adopted format in neuroimaging and 3D medical imaging.
 
     NRRD (.nrrd): commonly used for storing medical annotations, such as manual segmentations.
+
 
 ---
 
