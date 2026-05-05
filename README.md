@@ -9,11 +9,13 @@ This repository contains medical image files, annotations, visualization scripts
 
 | CT Scan | Lobar Mask |
 |--------|------------|
+<div align="center">
 <figure>
 	<img src="https://github.com/MICLab-Unicamp/LobePrior/blob/main/images/coronacases_007/coronacases_007_150_ct.png" alt="CT image", height="200" width="200">
 	<img src="https://github.com/MICLab-Unicamp/LobePrior/blob/main/images/coronacases_007/coronacases_007_150_gt.png" alt="Ground Truth", height="200" width="200"></td>
 	<br>CT image and Ground Truth<br>
 </figure>
+</div>
 
 ---
 
