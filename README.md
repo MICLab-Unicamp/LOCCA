@@ -20,10 +20,7 @@ This repository contains medical image files, annotations, visualization scripts
 | CT Scan | Lobar Mask |
 |--------|------------|
 | ![](https://raw.githubusercontent.com/MICLab-Unicamp/LOCCA/main/images/Task06/lung_001_153_ct.png) | 
-![](https://raw.githubusercontent.com/MICLab-Unicamp/LOCCA/main/images/Task06/lung_001_axial_153.png) |
-
-| ![](images/cancer_ct_2.png) | ![](images/cancer_mask_2.png) |
-| ![](images/cancer_ct_3.png) | ![](images/cancer_mask_3.png) |
+![](https://raw.githubusercontent.com/MICLab-Unicamp/LOCCA/main/images/Task06/lung_022_axial_242.png) |
 
 ---
 
