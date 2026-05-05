@@ -26,7 +26,7 @@ This repository contains medical image files, annotations, visualization scripts
 	<br>CT image and Ground Truth<br>
 </figure>
 </div>
----
+
 
 
 The main formats used here are:
