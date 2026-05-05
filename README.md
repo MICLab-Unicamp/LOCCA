@@ -7,8 +7,6 @@ This repository contains medical image files, annotations, visualization scripts
 
 ### 🦠 COVID-19 Cases
 
-| CT Scan | Lobar Mask |
-|--------|------------|
 <div align="center">
 <figure>
 	<img src="https://github.com/MICLab-Unicamp/LOCCA/blob/main/images/Task06/lung_022_CT_242.png" alt="CT image", height="200" width="200">
@@ -21,8 +19,6 @@ This repository contains medical image files, annotations, visualization scripts
 
 ### 🎗️ Lung Cancer Cases
 
-| CT Scan | Lobar Mask |
-|--------|------------|
 <div align="center">
 <figure>
 	<img src="https://github.com/MICLab-Unicamp/LOCCA/blob/main/images/Task06/lung_022_CT_242.png" alt="CT image", height="200" width="200">
