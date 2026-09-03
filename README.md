@@ -246,6 +246,24 @@ or
  └── load_image_and_annotation.py  # Script to load CT images and their annotations using the Python environment. The requirements are listed in the file header.
 ```
 
+### Note on Label 6 in Task06
+
+In the Task06 annotations, the voxel value `6` in `lung_022_label.nrrd` corresponds to an **accessory/supernumerary pulmonary lobe resulting from an anatomical variation** in this specific case.
+
+The standard LOCCA labeling scheme is:
+
+- `0` – background
+- `1` – left upper lobe (LUL)
+- `2` – left lower lobe (LLL)
+- `3` – right upper lobe (RUL)
+- `4` – right middle lobe (RML)
+- `5` – right lower lobe (RLL)
+- `6` – accessory/supernumerary lobe associated with an anatomical variation in this specific case
+
+For five-lobe segmentation evaluation, label `6` should be treated as an anatomical variant and should not be included in the class-wise evaluation of the five conventional lobes. The original annotation should nevertheless be preserved.
+
+In our experiments, label `6` was ignored during the evaluation of the five conventional lobes and treated as an anatomical variation present
+in the lung.
 
 
 ---
