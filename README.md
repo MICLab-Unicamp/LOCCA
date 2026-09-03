@@ -347,4 +347,17 @@ Email: j265739@dac.unicamp.br
 	doi = {10.1055/s-0042-1742517}
 }
 
+@ARTICLE{Ribeiro2026,
+  author  = {Jean Antonio Ribeiro and Diedre Santos do Carmo and Fabiano Reis and Ricardo Siufi Magalhães and Sergio San Juan Dertkigil and Simone Appenzeller and Letícia Rittner},
+  title   = {LobePrior segments lung lobes on computed tomography images in the presence of severe abnormalities},
+  journal = {Scientific Reports},
+  year    = {2026},
+  volume  = {16},
+  number  = {1},
+  pages   = {16205},
+  doi     = {10.1038/s41598-026-48136-8},
+  url     = {https://doi.org/10.1038/s41598-026-48136-8},
+  issn    = {2045-2322}
+}
+
 ``` 
